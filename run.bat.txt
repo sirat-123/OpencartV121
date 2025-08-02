@@ -1,0 +1,3 @@
+cd C:\workspaces\seleniumBatch\OpencartV121
+
+C:\workspaces\seleniumBatch\OpencartV121>mvn test
