@@ -1,5 +1,5 @@
 14:59:00.610 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\dell\AppData\Local\Temp\testng-eclipse-249169613\testng-customsuite.xml"
-14:59:01.093 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+14:59:01.093 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 Ms
 14:59:01.105 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 7 ms.
 14:59:01.108 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
 14:59:01.108 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
@@ -11,7 +11,7 @@
 14:59:01.145 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 20 ms.
 14:59:01.148 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
 14:59:01.149 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-14:59:01.150 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:59:01.150 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 
 14:59:01.151 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
 14:59:01.152 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
 14:59:01.152 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
